@@ -1,0 +1,20 @@
+{
+    "name":"http-example",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+
+    "scripts": {
+        "test": "echo\"Error:no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@hub.com/Erm0es/Node-training.git"
+    },
+    "author": "Emelie Wiberg",
+    "license": "ISC",
+    "bugs":{
+        "url": "https://github.com/Erm0es/Node-training.git"
+    },
+    "homepage": "https://github.com/Erm0es/Node-training.git"
+}
